@@ -1,19 +1,15 @@
-# 🚧 Creating a Project with AI
+# Creating a Project with AI
 
-> ⚠️ **Bu repo hozircha bo'sh** — hali kod qo'shilmagan.
+A sandbox for exploring how AI can help build a project end to end.
 
-AI yordamida loyiha yaratish bo'yicha tajriba uchun ochilgan repo.
+Status: **work in progress** — no application code yet.
 
----
+## Plan
 
-## 📌 Reja
+- [ ] Define the project idea
+- [ ] Generate code with AI
+- [ ] Publish and document the result
 
-- [ ] Loyiha g'oyasini aniqlash
-- [ ] AI bilan kod generatsiyasi
-- [ ] Kodni joylash va hujjatlashtirish
+## License
 
----
-
-## 📄 Litsenziya
-
-Litsenziya ko'rsatilmagan.
+MIT
